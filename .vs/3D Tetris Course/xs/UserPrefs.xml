@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C50B95D7-5F74-4201-7D63-DD3F9804D304}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreUI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="103" Column="26" />
+      <File FileName="Assets/Scripts/GridManager.cs" Line="54" Column="22" />
+      <File FileName="Assets/Scripts/AudioManager.cs" />
+      <File FileName="Assets/Scripts/TetrominoController.cs" Line="38" Column="38" />
+      <File FileName="Assets/Scripts/ScoreUI.cs" Line="16" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3D Tetris Course" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScoreUI.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="baab6b7d-e0f0-40f2-81f9-3abe9bc9e6ab" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
